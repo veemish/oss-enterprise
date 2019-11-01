@@ -1,6 +1,9 @@
-# Releasing Open Source
 
+# Releasing Open Source
 You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+# Getting Started with Open Source in the Enterprise
+:tada:  :tada:  :tada:
+Welcome to our course on **Getting Started with Open Source in the Enterprise**. We are excited to join you in this journey and look forward to helping you meet your OSS goals.
 
 ## What should be open source?
 
@@ -21,3 +24,5 @@ Before you open source your project, consider the effort required to maintain it
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+
+:tada:   :tada:   :tada:  :tada:
