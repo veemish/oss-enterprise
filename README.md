@@ -1,5 +1,5 @@
 # Getting Started with Open Source in the Enterprise
-
+:tada:  :tada:  :tada:
 Welcome to our course on **Getting Started with Open Source in the Enterprise**. We are excited to join you in this journey and look forward to helping you meet your OSS goals.
 
 ### How It Works
@@ -17,3 +17,5 @@ We hope you are excited to get started! Head over to the take your first steps t
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+
+:tada:   :tada:   :tada:  :tada:
